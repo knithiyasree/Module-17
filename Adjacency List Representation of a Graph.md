@@ -37,12 +37,6 @@ To write a Python program to demonstrate the **adjacency list representation** o
 ## PYTHON PROGRAM
 
 ```
-"""
-A Python program to demonstrate the adjacency
-list representation of the graph
-"""
-
-# A class to represent the adjacency list of the node
 
 
 class AdjNode:
